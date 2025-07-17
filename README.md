@@ -1,16 +1,85 @@
-## Hi there 👋
+## Hi there 👋 I'm Akshay Dhaskanwar
 
-<!--
-**akshay0226/akshay0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Certified Data Analyst  
+Crafting Insight. Empowering Decisions. Elevating Impact.  
+📊 Power BI Architect | 📈 Tableau Storyteller | 🔍 SQL Strategist | 🐍 Passionate Python learner | ☁️ AWSplorer
 
-Here are some ideas to get you started:
+Where raw data becomes refined direction and visuals speak louder than words.
+___________________________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 About Me
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔭 Data Analyst Intern at Scaler Consultancy, transforming datasets into impactful dashboards and decisions.     
+💼 Skilled in SQL, Power BI, and data visualization, with real-world experience in building actionable reports.      
+🌱 Actively learning Python and AWS to expand my analytical toolkit.      
+📊 Specialize in creating interactive dashboards, trend analysis, and KPI-focused reporting.    
+📘 Certified in the Data Master Program by Simplilearn—my gateway into the analytics world and current career passion.   
+🌱 Passionate about designing visuals that reveal stories hidden in complex data.   
+👯 Excited to collaborate on SQL optimization, dashboard building, and storytelling through Power BI or Tableau.   
+🤔 Seeking guidance in visualization techniques and opportunities for mentorship or referrals in data analytics.
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+💻 Tech Stack & Tools
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📊 Data Analysis & Visualization
+
+- Power BI ▸ Dynamic dashboards & KPI storytelling
+- Tableau ▸ Visual analytics with sleek design
+- Microsoft Excel ▸ Advanced formulas, pivot tables & GenAI integrations
+
+🧮 Programming & Development
+
+- SQL ▸ Query writing, relational modeling, performance tuning
+- Python ▸ Currently learning for data manipulation & automation
+- DAX ▸ Power BI calculations and metrics
+
+🗄️ Databases & Platforms
+- MySQL ▸ Schema design & query optimization
+- PostgreSQL ▸ Data integrity & structured reporting
+- AWS ▸ Beginner-level cloud computing & scalable solutions
+
+🛠️ Tools & Environment
+- Git & GitHub ▸ Version control and collaboration
+- Jupyter Notebook ▸ Data exploration & prototyping
+- Google Sheets ▸ Lightweight data tracking & quick analysis
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+📊 Featured Projects
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+🏆 Certifications
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📊 Data Analyst Certificate
+📈 KultureHire Internship Certificate
+📊 Business Analytics with Excel Certificate
+📊 Excel Certificate
+📘 Introduction to Data Analytics Certificate 
+📊 Power BI Certificate
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+🎓 Virtual Job Simulations
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+💼 Deloitte Virtual Internship
+
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+🤝 Connect with Me!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
