@@ -9,20 +9,24 @@ ________________________________________________________________________________
 
 🎯 About Me
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 🔭 Data Analyst Intern at Scaler Consultancy, transforming datasets into impactful dashboards and decisions.     
-💼 Skilled in SQL, Power BI, and data visualization, with real-world experience in building actionable reports.      
-🌱 Actively learning Python and AWS to expand my analytical toolkit.      
+💼 Skilled in SQL, Power BI, and data visualization, with real-world experience in building actionable reports.          
 📊 Specialize in creating interactive dashboards, trend analysis, and KPI-focused reporting.    
 📘 Certified in the Data Master Program by Simplilearn—my gateway into the analytics world and current career passion.   
 🌱 Passionate about designing visuals that reveal stories hidden in complex data.   
 👯 Excited to collaborate on SQL optimization, dashboard building, and storytelling through Power BI or Tableau.   
 🤔 Seeking guidance in visualization techniques and opportunities for mentorship or referrals in data analytics.
-___________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+💻 Learning Journey
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🐍 Pythoneer: Navigating data manipulation with pandas & NumPy.
+- ☁️ Cloudbound: Exploring scalable solutions with AWS fundamentals.
+__________________________________________________________________________________________________________________________________________________________________________________________
+
 
 💻 Tech Stack & Tools
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📊 Data Analysis & Visualization
 
 - Power BI ▸ Dynamic dashboards & KPI storytelling
@@ -71,6 +75,15 @@ ________________________________________________________________________________
 
 🤝 Connect with Me!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaydhaskanwar)
+- 📧 [Email Me](mailto:akshaydhaskanwar10@gmail.com)
+- 📱 Phone: +91 7710877855
+- 🌍 Location: India
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
 
 
 
